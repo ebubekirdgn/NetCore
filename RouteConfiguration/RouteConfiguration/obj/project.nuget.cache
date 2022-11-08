@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeN3PGtEtnUjeVAjMZM9oktj5hhCpgsNY7XdvJ4yv4mLTHgu1GklLx8+b4yaBHWkynoOTi/TLpOL6Z3QD+P34Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\codemachine\\Documents\\GitHub\\NetCore\\RouteConfiguration\\RouteConfiguration\\RouteConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codemachine\\.nuget\\packages\\magick.net-q16-anycpu\\12.2.1\\magick.net-q16-anycpu.12.2.1.nupkg.sha512",
+    "C:\\Users\\codemachine\\.nuget\\packages\\magick.net.core\\12.2.1\\magick.net.core.12.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
