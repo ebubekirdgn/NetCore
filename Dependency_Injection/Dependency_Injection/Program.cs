@@ -1,7 +1,18 @@
-var builder = WebApplication.CreateBuilder(args);
+using Dependency_Injection.Services;
+
+var builder = WebApplication.CreateBuilder(args);  // built in IoC
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.Add(new ServiceDescriptor(typeof(ConsoleLog), new ConsoleLog()));
+builder.Services.Add(new ServiceDescriptor(typeof(TextLog), new TextLog()));
+
+//default olarak bunlar singleton'dýr.
+
+
+ServiceProvider provider = builder.Services.BuildServiceProvider();
+provider.GetService<ConsoleLog>();
+provider.GetService<TextLog>();
 
 var app = builder.Build();
 
