@@ -1,4 +1,5 @@
 ﻿using Dependency_Injection.Models;
+using Dependency_Injection.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -15,6 +16,8 @@ namespace Dependency_Injection.Controllers
 
         public IActionResult Index()
         {
+            ConsoleLog consoleLog = new ConsoleLog();
+            consoleLog.Log();
             return View();
         }
 
