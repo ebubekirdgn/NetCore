@@ -1,5 +1,7 @@
-﻿@model Personal
+﻿@model PersonalCreateVM
 
 <form asp-action="Index" asp-controller="Personal" method="post">
-
+    <input type="text" asp-for="Name" /></br>
+    <input type="text" asp-for="Surname" /></br>
+    <button>Gönder</button>
 </form>
