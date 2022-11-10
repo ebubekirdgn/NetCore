@@ -1,0 +1,12 @@
+﻿ @model List<PersonalListVM>
+
+<ul>
+    @foreach (var personal in Model)
+    {
+        <li>
+            @personal.Name
+            @personal.Surname
+            @personal.Position
+        </li>
+    }
+</ul>
