@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Data.SqlClient;
 
 namespace secretManagerExample.Controllers
 {
@@ -19,8 +20,12 @@ namespace secretManagerExample.Controllers
         {
             var user = _configuration["MailBilgileri:User"];
             var password = _configuration["MailBilgileri:Password"];
+
+            var connection = _configuration.GetConnectionString("SQL");
+            SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(connection);
+            builder.UserID = _configuration["SQL:Username"];
+            builder.Password = _configuration["SQL:Password"];
         }
     }
-
 
 }
