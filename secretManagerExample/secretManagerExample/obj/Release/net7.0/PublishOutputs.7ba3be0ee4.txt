@@ -1,0 +1,12 @@
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\secretManagerExample.exe
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\secretManagerExample.dll
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\secretManagerExample.deps.json
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\secretManagerExample.runtimeconfig.json
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\secretManagerExample.pdb
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

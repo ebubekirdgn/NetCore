@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\codemachine\Documents\GitHub\NetCore\secretManagerExample\secretManagerExample\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-13T07:57:18.1332122Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
